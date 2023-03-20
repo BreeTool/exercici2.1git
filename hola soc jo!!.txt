@@ -1,0 +1,6 @@
+hola soc jo!!
+primera.
+segona.
+nova branch.
+primer commit
+segon commit.
